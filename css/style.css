@@ -1,0 +1,19 @@
+.container {
+  width: 50vw;
+  background-color: whitesmoke;
+  padding: 1rem;
+}
+
+.konversi-wrap {
+  width: 80%;
+}
+
+.suhu-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+
+.text-blue {
+  color: blue;
+}
